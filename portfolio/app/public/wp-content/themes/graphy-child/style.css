@@ -1,0 +1,134 @@
+/*
+Theme Name:graphy-child
+Template:graphy
+Version:2.3.0
+*/
+
+@media screen and (min-width: 980px) {
+  .site-branding, .site-content, .footer-widget-wrapper {
+    max-width: 100%;
+  }
+}
+
+.site-content, .footer-widget-wrapper {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 980px) {
+  .no-sidebar .content-area, .full-width .content-area {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .content-area {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 783px) {
+  .site-header {
+    margin-bottom: 75px;
+  }
+}
+
+
+#pg-110-0 h1 {
+  color: black;
+}
+
+#pg-110-1 {
+  display: flex;
+  align-items: center !important;
+  justify-content: center;
+}
+
+#panel-110-1-1-0 {
+  margin: auto;
+  width: 90% !important;
+}
+
+#panel-110-1-1-0 p {
+  font-size: 20px;
+}
+
+#panel-110-3-0-1 {
+  width: 80%;
+  margin: auto;
+  font-size: 20px;
+}
+
+#panel-110-3-0-1 h3{
+  text-align: center;
+}
+
+#panel-110-3-1-1 {
+  width: 80%;
+  margin: auto;
+  font-size: 20px;
+}
+
+#panel-110-3-1-1 h3{
+  text-align: center;
+}
+
+#pg-110-3 {
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/29/08/43/blank-1868502_1280.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+#pg-110-4> .panel-row-style, #pg-110-9> .panel-row-style ,#panel-110-2-0-0,#pg-110-7,#panel-110-6-0-0{
+  padding: 3% 5% 3% 5% !important;
+}
+
+#pg-110-5 {
+  display: flex;
+  align-items: center !important;
+  justify-content: center;
+}
+
+#panel-110-5-1-0{
+  margin: auto;
+  width: 90% !important;
+  font-size: 20px;
+}
+
+.site-branding {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+header {
+  margin-top: 25px !important;
+  margin-bottom: 0 !important;
+}
+
+@media(max-width:426px){
+  #panel-110-0-0-0 .sow-slider-image-wrapper {
+    height: 450px !important;
+  }
+}
+
+@media(max-width:320px){
+  #pg-110-0 h1{
+    font-size: 70px;
+  }
+
+  .so-widget-sow-hero-default-88244ed939f3 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper {
+    height: 400px;
+  }
+}
+
+#pg-110-2 {
+  margin-bottom: 0 !important;
+}
+
+#pg-110-3 {
+  padding-top: 30px;
+}
+
+
+
